@@ -1,7 +1,12 @@
 
 # Sistema de Autenticação - Streamlit
 
-Este projeto é um sistema de autenticação simples desenvolvido em **Python** e **Streamlit**, com integração ao banco de dados **PostgreSQL**. Ele permite o cadastro e login de usuários, utilizando hashing de senha para maior segurança.
+Este projeto é um sistema de autenticação simples desenvolvido em **Python** e **Streamlit**, com integração ao banco de dados **PostgreSQL**. Ele permite o cadastro e login de usuários, com diversas validações e  utilizando hashing de senha para maior segurança.
+
+## 📷 Interface
+
+![image](https://github.com/user-attachments/assets/1aa7f56b-48fc-4ee6-a11c-74a7aefa64c7)
+![image](https://github.com/user-attachments/assets/ef6c836b-dbb2-4be4-9871-2976181b940c)
 
 ## 📋 Pré-requisitos
 
